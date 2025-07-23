@@ -1,4 +1,7 @@
 Mi Proyecto de Red Social Laravel
+=======
+# Mi Proyecto de Red Social Laravel
+>>>>>>> main
 
 Este es el prototipo de una red social creado con Laravel para mi portafolio.
 
