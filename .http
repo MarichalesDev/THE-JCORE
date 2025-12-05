@@ -1,0 +1,9 @@
+### Solicitar enlace de recuperación
+POST http://localhost:8000/api/forgot-password
+Content-Type: application/json
+
+{
+  "email": "marichalesdev@gmail.com"
+}
+
+
